@@ -1,0 +1,15 @@
+Requirement:
+• Hands-on Experience in Laravel framework and MVC framework Architecture.
+• Good Knowledge Of Blade Template Engine and third-party template integration.
+• Knowledge of front-end technologies including CSS3, Bootstrap JavaScript, AJAX and HTML5 is mandatory.
+• Should be a good team player flexible to work without time bounds.
+• Knowledge in Database Design and Normalization.
+• Experience with 3rd party integrations Web Services, REST APIs, AWS etc.
+• Strong Understanding of object-oriented PHP programming and implementation.
+• Knowledge/experience developing mobile-friendly websites
+• Proficient with code versioning tools like Git.
+• Experience with JS Frameworks is an added advantage.
+• Experience in SCRUM environment, MongoDB, Flutter, React will be highly appreciable.
+
+Key Skills: Laravel 8.x, PHP OOP, Blade Engine, MongoDB, CSS3, Bootstrap, AJAX, Javascript, REST API, AWS, SCRUM.
+
